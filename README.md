@@ -10,7 +10,7 @@ My fondness with web space was pivotal for incepting this new career and I'm hap
 ## Skills
 * React
 * MUI
-* HTML | CSS | JS
+* HTML | CSS | JavaSript
 * NODE
 * MONGO
 * MYSQL
