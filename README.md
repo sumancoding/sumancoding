@@ -10,10 +10,11 @@ My fondness with web space was pivotal for incepting this new career and I'm hap
 ## Skills
 * React
 * MUI
-* HTML | CSS | JavaSript
+* HTML | CSS | JavaScript
 * NODE
 * MONGO
 * MYSQL
+* Figma for UI/UX design (learning)
 
 
 
