@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://profound-clafoutis-0d2f4b.netlify.app/**
 
-- ⚡ Fun fact **I love dogs. I also love cooking.**
+- ⚡ Fun fact **I love dogs. Aviation enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
