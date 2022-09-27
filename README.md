@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumanmalla49" target="blank"><img src="https://img.shields.io/twitter/follow/sumanmalla49?logo=twitter&style=for-the-badge" alt="sumanmalla49" /></a> </p>
 
-- 🔭 I’m currently working on Salesforce Ecosystem)
+- 🔭 I’m currently working as a Salesforce Developer trainee)
 
 - 🌱 I’m currently learning **Salesforce Development**
 
