@@ -1,5 +1,5 @@
 
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEGnmeclBqRJw/profile-displaybackgroundimage-shrink_350_1400/0/1630030669451?e=1669852800&v=beta&t=_e6Rjoql-vZMy-x__1ZRfdzHHCKby4pbeHqBR4tOTWA)
+![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQET5jjaKdSe1g/profile-displaybackgroundimage-shrink_350_1400/0/1664476606765?e=1670457600&v=beta&t=dfiObL7HIYTcLSq0Dlz1jQIL5FBmbmHfQPWF2E2J-h0)
 
 <h1 align="center">Hi 👋, I'm Suman Malla (sumancoding)</h1>
 <h3 align="center">An enthusiastic developer based in Finland currently learning Salesforce Development. I mostly enjoy working at frontend side. I also enjoy wireframes, prototyping along with UI/UX design. Now adays i'm also focusing on the backend side. I've completed my full stack training program from Turku University.</h3>
