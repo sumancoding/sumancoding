@@ -2,7 +2,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQET5jjaKdSe1g/profile-displaybackgroundimage-shrink_350_1400/0/1664476606765?e=1670457600&v=beta&t=dfiObL7HIYTcLSq0Dlz1jQIL5FBmbmHfQPWF2E2J-h0)
 
 <h1 align="center">Hi 👋, I'm Suman Malla (sumancoding)</h1>
-<h3 align="center">An enthusiastic developer based in Finland currently learning Salesforce Development. I mostly enjoy working at frontend side. I also enjoy wireframes, prototyping along with UI/UX design. Now adays i'm also focusing on the backend side. I've completed my full stack training program from Turku University.</h3>
+<h3 align="center">An enthusiastic developer based in Finland currently learning Salesforce Development. I mostly enjoy working at frontend side. I also enjoy wireframes, prototyping along with UI/UX design. Now adays I'm focusing on the backend, presently with Apex. I've completed my full stack training program from Turku University.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumancoding&label=Profile%20views&color=0e75b6&style=flat" alt="sumancoding" /> </p>
